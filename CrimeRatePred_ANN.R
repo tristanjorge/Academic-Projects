@@ -1,4 +1,4 @@
-setwd ("D:/NUS/Y4S3/EC4308 (done)/Project")
+setwd ("/Project")
 
 # clear env
 rm(list=ls())
