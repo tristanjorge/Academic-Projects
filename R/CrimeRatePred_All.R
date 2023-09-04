@@ -1,4 +1,3 @@
-# 4308 MASTER FILE
 ##START OF RF CODE###############################
 rm(list=ls()) #clear environment
 library(randomForest)
@@ -17,7 +16,7 @@ library(lsei)
 library(Rcpp)
 
 
-setwd ("D:/NUS/Y4S3/EC4308 (done)/Project") #sets the working directory that contains the csv file, which is the data downloaded from UCI.
+setwd ("/Project") #sets the working directory that contains the csv file, which is the data downloaded from UCI.
 data <- read.csv("Book2.csv", header = TRUE, sep = ",") #collects the file "Book2.csv" from the directory. header = TRUE because headers were pre-added in Excel. since it's a Comma Separated Var file, we specify it in the function. the dataframe is simply named as 'data'.
 data[data == "?"] <- NA #there is a lot of missing values labelled "?" in the csv file. rename "?" as NA.
 set.seed(4308) #sets a random seed
