@@ -8,3 +8,6 @@ identification of underlying factors, while comparing these factors with another
 # Contradictory, My Dear Watson - Machine Learning Project
 Natural Language Inference project on Kaggle using RNN such as Bidrectional LSTM, ELMo, and an attention model, BERT.
 Objective to infer whether a given hypothesis is related to its premise in the form of contradiction, entailment, or state of being neutral.
+
+# Crime Rate Prediction using Socioeconomic Indicators - Machine Learning Project
+Feature selection using diverse models (e.g. Random Forest, Bagging, LASSO, ANN) to determine key predictors for violent crimes.
