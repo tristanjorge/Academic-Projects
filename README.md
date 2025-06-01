@@ -1,5 +1,5 @@
-# School-Projects
-Repository for School Projects during candidature at the National University of Singapore.
+# Academic-Projects
+Repository for Academic-style Projects
 
 # Airline Analysis - Business Analytics Project
 Analysis of fictional airlines and flights using Excel and Tableau to determine the reasons for a specific airline's (Falcon Airline) excellent performance, 
